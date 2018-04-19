@@ -6,11 +6,13 @@ A repo showing how to build a photo gallery app using Angular5.The app shows a c
 # Technologies used
 * Angular5
 * Nodejs must be installed in your computer
+* Git version control 
 * Bootstrap 3 <br/>
 
 # Installation
 * Clone the repo <br/>
 * Run npm install via the command line interface (CLI) <br/>
+* Run ng serve <br/>
 * Open your browser and run localhost:4200 <br/>
 
 
